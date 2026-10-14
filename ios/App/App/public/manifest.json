@@ -1,0 +1,17 @@
+{
+  "name": "Wholbase",
+  "short_name": "Wholbase",
+  "description": "Multi-organization field operations for delivery, routing, proof, collections, offline sync, and shift close.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06183f",
+  "theme_color": "#06183f",
+  "icons": [
+    {
+      "src": "/_cdn/static/8b4daee0-b31a-4cef-92d9-561ce2e1fd7d-wholbase-master-icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
