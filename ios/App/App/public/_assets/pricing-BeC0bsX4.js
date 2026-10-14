@@ -1,0 +1,1 @@
+import{j as r}from"./vendor-3-1rfSiL.js";import{P as i}from"./PublicInquiryForm-DTtSC0wF.js";import"./index-CGIeJMqS.js";import"./Input-BMQ2SjCx.js";import"./Textarea-BKjzXNT2.js";function s(){return r.jsx(i,{kind:"pricing"})}export{s as default};
