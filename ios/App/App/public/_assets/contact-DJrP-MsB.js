@@ -1,0 +1,1 @@
+import{bN as i,j as a}from"./vendor-3-1rfSiL.js";import{P as c}from"./PublicInquiryForm-wP-zXDoP.js";import"./index-Zhpoc9zx.js";import"./Input-DuAsi_ep.js";import"./Textarea-DRAAaqKX.js";function u(){const[o]=i(),t=o.get("topic"),r=t==="demo"?"Request a demo":t==="privacy"?"Security or privacy":"";return a.jsx(c,{kind:"contact",initialTopic:r})}export{u as default};
